@@ -1,3 +1,18 @@
 #main-title{
     color: red;
 }
+p{
+    color: green;
+}
+.red-text{
+    color: red;
+}
+.big-text {
+    font-size: 24px;
+}
+.pink .inner-text{
+    color: brown;
+}
+.yellow .inner-text{
+    color: violet;
+}
